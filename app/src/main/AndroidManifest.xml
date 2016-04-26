@@ -18,7 +18,8 @@
         <activity
             android:name=".UserScreen"
             android:label="@string/title_activity_user_screen"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".EmailExists"></activity>
     </application>
 
 </manifest>
